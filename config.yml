@@ -62,10 +62,8 @@ galaxy_arms:
 projects:
   - repo: "peal-26/peal-26"
     arm: 0
-    description: "My personal GitHub profile repository, showcasing my projects and contributions."
-  - repo: "peal-26/peal-26.github.io"
-    arm: 2
-    description: "My personal website built with React, featuring my portfolio and blog posts."
+    description: ""
+ 
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
